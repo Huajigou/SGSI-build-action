@@ -7,7 +7,7 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://dl.google.com/developers/android/sc/images/factory/redfin-spp3.210325.010-factory-3b4bc719.zip'
+  ROM_URL: 'https://dl.google.com/developers/android/sc/images/ota/blueline-ota-spp3.210325.010-cd5669bf.zip'
   ZIP_NAME: 'update.zip'
   OS_TYPE: 'Pixel'
   BUILD_TYPE: 'ab'
