@@ -7,7 +7,7 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://dl.google.com/developers/android/sc/images/ota/blueline-ota-spp3.210325.010-cd5669bf.zip'
+  ROM_URL: 'http://bigota.d.miui.com/21.8.27/miui_VENUS_21.8.27_4c4e6f2923_12.0.zip'
   ZIP_NAME: 'update.zip'
   OS_TYPE: 'Generic'
   BUILD_TYPE: 'ab'
